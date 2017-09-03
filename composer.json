@@ -6,7 +6,11 @@
   "description": "WP Sync DB eliminates the manual work of migrating a WP database.",
   "keywords": ["plugin","wordpress","wp-sync-db","db"],
   "require": {
+<<<<<<< HEAD
     "composer/installers": "~1.2.0"
+=======
+    "composer/installers": "~1.0"
+>>>>>>> f50a834c6471a73bc45bd731d8ec9e2af7561412
   },
   "scripts": {
     "test": "./test.sh"
