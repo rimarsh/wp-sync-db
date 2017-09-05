@@ -1,6 +1,5 @@
 <?php
 class WPSDB extends WPSDB_Base {
-<<<<<<< HEAD
 	protected $fp;
 	protected $absolute_root_file_path;
 	protected $form_defaults;
