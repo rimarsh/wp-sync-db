@@ -1,7 +1,7 @@
 {
-  "name": "ggamel/wp-sync-db",
+  "name": "rimarsh/wp-sync-db",
   "type": "wordpress-plugin",
-  "homepage": "https://github.com/ggamel/wp-sync-db",
+  "homepage": "https://github.com/rimarsh/wp-sync-db",
   "license": "GPL-2.0",
   "description": "WP Sync DB eliminates the manual work of migrating a WP database.",
   "keywords": ["plugin","wordpress","wp-sync-db","db"],
